@@ -446,7 +446,7 @@ a img.aligncenter {
 }
 
 .header_style_01 .navbar-default .navbar-nav > li > a {
-	margin-top: 55px;
+	margin-top: 45px;
     border-radius: 0;
     color:#fd6802;
     font-size: 17px;
@@ -461,7 +461,7 @@ a img.aligncenter {
 .header_style_01 .navbar-default .navbar-nav > li a {
 	
 	color: black;
-	padding: 3px 5px;
+	padding: 10px 5px;
 	width: 150px;
 	text-align: center;
 
@@ -523,21 +523,21 @@ li.social-links a {
 -------------------------------------------------------------------*/
 
 .slider-bg-one {
-    background-image: url("uploads/tank3.jpg");
+    background-image: url("uploads/header.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-two {
-    background-image: url("uploads/tank3.jpg");
+    background-image: url("uploads/platform.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-three {
-    background-image: url("uploads/tank3.jpg");
+    background-image: url("uploads/header.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -635,7 +635,7 @@ li.social-links a {
 .home-one-slider-otem::before{
 	content: "";
 	position: absolute;
-	background: rgba(0,0,0, 0.2);
+	background: rgba(0,0,0, 0.3);
 	width: 100%;
 	height: 100%;
 	top: 0%;
@@ -1325,6 +1325,7 @@ li.social-links a {
 
 .message-box p {
     margin-bottom: 20px;
+	text-align: justify;
 }
 
 .message-box .lead {
@@ -2184,7 +2185,7 @@ select.mobile-device {
 
 .footer-distributed .footer-left {
     float: none;
-	text-align: center;
+	
 }
 
 .footer-distributed .footer-links {
@@ -2946,7 +2947,7 @@ select.mobile-device {
 
 
 .banner-bg-4{
-	background: url(uploads/tanker3.png);
+	background: url(uploads/tunk.jpg);
 	padding: 120px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
@@ -3037,7 +3038,7 @@ select.mobile-device {
 }
 .about-icon span{
 	font-size: 48px;
-	color: #393939;
+	color:#fd6802;
 }
 
 .about-text h3{
